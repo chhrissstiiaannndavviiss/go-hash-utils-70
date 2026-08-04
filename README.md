@@ -1,2 +1,4 @@
-# go-hash-utils-70
+# Go Hash Utils 70
+
 Hashing functions for strings in Go.
+
